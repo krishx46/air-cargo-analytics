@@ -1,0 +1,41 @@
+airport_code,airport_name,city,country,region,latitude,longitude
+DXB,Dubai International Airport,Dubai,United Arab Emirates,Middle East,25.2532,55.3657
+DWC,Al Maktoum International Airport,Dubai,United Arab Emirates,Middle East,24.8964,55.1614
+DOH,Hamad International Airport,Doha,Qatar,Middle East,25.2731,51.6081
+AUH,Abu Dhabi International Airport,Abu Dhabi,United Arab Emirates,Middle East,24.433,54.6511
+RUH,King Khalid International Airport,Riyadh,Saudi Arabia,Middle East,24.9576,46.6988
+FRA,Frankfurt Airport,Frankfurt,Germany,Europe,50.0379,8.5622
+AMS,Amsterdam Schiphol Airport,Amsterdam,Netherlands,Europe,52.3105,4.7683
+LHR,London Heathrow Airport,London,United Kingdom,Europe,51.47,-0.4543
+CDG,Charles de Gaulle Airport,Paris,France,Europe,49.0097,2.5479
+LGG,Liège Airport,Liège,Belgium,Europe,50.6374,5.4432
+HKG,Hong Kong International Airport,Hong Kong,China,Asia,22.308,113.9185
+SIN,Singapore Changi Airport,Singapore,Singapore,Asia,1.3644,103.9915
+PVG,Shanghai Pudong International Airport,Shanghai,China,Asia,31.1443,121.8083
+ICN,Incheon International Airport,Seoul,South Korea,Asia,37.4602,126.4407
+NRT,Narita International Airport,Tokyo,Japan,Asia,35.772,140.3929
+DEL,Indira Gandhi International Airport,Delhi,India,Asia,28.5562,77.1
+BOM,Chhatrapati Shivaji Maharaj International Airport,Mumbai,India,Asia,19.0896,72.8656
+BLR,Kempegowda International Airport,Bengaluru,India,Asia,13.1986,77.7066
+HYD,Rajiv Gandhi International Airport,Hyderabad,India,Asia,17.2403,78.4294
+MAA,Chennai International Airport,Chennai,India,Asia,12.9941,80.1709
+JFK,John F. Kennedy International Airport,New York,United States,North America,40.6413,-73.7781
+ORD,O'Hare International Airport,Chicago,United States,North America,41.9742,-87.9073
+LAX,Los Angeles International Airport,Los Angeles,United States,North America,33.9416,-118.4085
+DFW,Dallas/Fort Worth International Airport,Dallas,United States,North America,32.8998,-97.0403
+MEM,Memphis International Airport,Memphis,United States,North America,35.0425,-89.9767
+CAI,Cairo International Airport,Cairo,Egypt,Africa,30.1219,31.4056
+JNB,O.R. Tambo International Airport,Johannesburg,South Africa,Africa,-26.1337,28.242
+NBO,Jomo Kenyatta International Airport,Nairobi,Kenya,Africa,-1.3192,36.9278
+SYD,Sydney Kingsford Smith Airport,Sydney,Australia,Oceania,-33.9399,151.1753
+MEL,Melbourne Airport,Melbourne,Australia,Oceania,-37.669,144.841
+ZRH,Zurich Airport,Zurich,Switzerland,Europe,47.4581,8.5555
+CPH,Copenhagen Airport,Copenhagen,Denmark,Europe,55.6181,12.6561
+ARN,Stockholm Arlanda Airport,Stockholm,Sweden,Europe,59.6519,17.9186
+KWI,Kuwait International Airport,Kuwait City,Kuwait,Middle East,29.2266,47.9689
+BAH,Bahrain International Airport,Manama,Bahrain,Middle East,26.2708,50.6336
+MCT,Muscat International Airport,Muscat,Oman,Middle East,23.5933,58.2844
+AMM,Queen Alia International Airport,Amman,Jordan,Middle East,31.7226,35.9932
+PEK,Beijing Capital International Airport,Beijing,China,Asia,40.0799,116.6031
+MXP,Milan Malpensa Airport,Milan,Italy,Europe,45.6306,8.7281
+YYZ,Toronto Pearson International Airport,Toronto,Canada,North America,43.6777,-79.6248

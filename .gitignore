@@ -1,4 +1,16 @@
+# Virtual Environment
 venv/
+
+# Python
 __pycache__/
 *.pyc
-.env
+
+# VS Code
+.vscode/
+
+# Power BI cache
+*.pbit
+
+# OS files
+.DS_Store
+Thumbs.db
