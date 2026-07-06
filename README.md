@@ -92,7 +92,7 @@ The analytical data warehouse follows a **Star Schema** consisting of one fact t
 
 Provides a high-level overview of cargo operations through key performance indicators, shipment status, revenue trends, cargo distribution, and shipment priority analysis.
 
-![Executive Dashboard](Screenshots/dashboard1.png)
+![Executive Dashboard](screenshots/dashboard1.png)
 
 ---
 
@@ -100,7 +100,7 @@ Provides a high-level overview of cargo operations through key performance indic
 
 Focuses on customer performance, industry revenue contribution, shipment distribution, cargo weight analysis, and customer segmentation.
 
-![Customer Dashboard](Screenshots/dashboard2.png)
+![Customer Dashboard](screenshots/dashboard2.png)
 
 ---
 
@@ -158,7 +158,7 @@ air-cargo-analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/air-cargo-analytics.git
+git clone https://github.com/krishx46/air-cargo-analytics
 ```
 
 ### 2. Navigate to the project
@@ -242,9 +242,9 @@ Open the **Air Cargo Analytics.pbix** file to explore the dashboards.
 
 Bachelor of Technology in Computer Science (Artificial Intelligence & Machine Learning)
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/krishx46
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/krishnadevgokul/
 
 ---
 
