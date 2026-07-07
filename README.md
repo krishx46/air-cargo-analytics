@@ -92,7 +92,7 @@ The analytical data warehouse follows a **Star Schema** consisting of one fact t
 
 Provides a high-level overview of cargo operations through key performance indicators, shipment status, revenue trends, cargo distribution, and shipment priority analysis.
 
-![Executive Dashboard](screenshots/overview_dashboard.png)
+![Executive Dashboard](screenshots/screenshot1.png)
 
 ---
 
@@ -100,7 +100,7 @@ Provides a high-level overview of cargo operations through key performance indic
 
 Focuses on customer performance, industry revenue contribution, shipment distribution, cargo weight analysis, and customer segmentation.
 
-![Customer Dashboard](screenshots/Business_Insight.png)
+![Customer Dashboard](screenshots/screenshot2.png)
 
 ---
 
